@@ -1,0 +1,15 @@
+{
+  "name": "pos-app-node",
+  "version": "1.0.0",
+  "description": "Suki Trading POS - Node.js + Express version (replaces the PHP/XAMPP app)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.22.2"
+  }
+}
